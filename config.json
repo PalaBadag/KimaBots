@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["6281389566932@s.whatsapp.net","12494881574@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ Galang ×፝֟͜×",
+    "instagram" : "https://instagram.com/badutxzv",
+    "gcwa" : "https://chat.whatsapp.com/FVemmsbxqaq2kQuuVI7VUh",
+    "botName": "Kima-Mdོ ",
+    "footer": "https//youtube.com/@aditsaputra5",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "rTGCHzU6",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": false,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
